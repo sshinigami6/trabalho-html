@@ -1,0 +1,135 @@
+body{
+    background-color: white;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+h1{
+    width: 969px;
+    height: 256px;
+    top: 74px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 64px;
+    margin-left: 235px;
+
+}
+
+.link{
+    color: #555555;
+    width: 1388px;
+    height: 32px;   
+    
+}
+.textoinicio{
+    width: 839px;
+    height: 84px;
+    margin-left: 235px;
+    color: #555555;
+}
+
+.silva{
+    width: 303px;
+    height: 20px;
+    margin-left: 235px;
+    color: rgb(0, 0, 0);
+    line-height: 20px;
+    font-size: 16px;
+
+}
+
+.data{
+    width: 226px;
+    height: 16px;
+    line-height: 16.34px;
+    margin-left: 235px;
+    font-size: 12px;
+    color: black;
+    
+
+}
+
+hr{
+    width: 1020px;
+    height: 0px;
+    margin-left: 235px;
+    border: 1px 0px 0px 0px;
+    align-items: center;
+    color: #B0AFAF;
+    top: 554px ;
+
+}
+
+.paragrafo{
+    width: 691px;
+    height: 160px;
+    line-height: 32px;
+    margin-left: 375px;
+    font-size: 20px;
+    color: #333333;
+}
+
+.vermelho{
+    color: #A6130A;
+}
+
+li{
+
+    width: 660px;
+    height: 100px;
+    margin-left: 375px;
+    line-height: 24px;
+    font-size: 20px;
+    color: #A6130A;
+}
+.paragrafodois{
+
+    width: 685px;
+    height: 224px;
+    line-height: 32px;
+    margin-left: 375px;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+.paragrafotres{
+    width: 683px;
+    height: 128px;
+    line-height: 32px;
+    margin-left: 375px;
+    font-size: 20px;
+    color:#333333 ;
+    
+}
+
+.conheca{
+    width: 422px;
+    height: 32px;
+    margin-left: 375px;
+    line-height: 32px;
+    font-size: 20px;
+
+
+}
+
+.paragrafoquatro{
+    width: 669px;
+    height: 224px;
+    margin-left: 375px;
+    line-height: 32px;
+    font-size: 20px;
+    color: #333333;
+
+}
+
+.cite{
+    border-left: 3px solid #A6130A;
+    padding-left: 10px;
+    margin-left: 375px;
+    width: 665px;
+    height: 100px;
+    font-size: 28px solid #333333;
+    font-weight: bold;
+}
+
